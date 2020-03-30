@@ -5,7 +5,7 @@ Members of The Rebels are requested to upload their 2d games.
 
 Upcoming Game : (till 28th March,2020),
 
-      Car Racing Game version 0.9 (unregistered).
+      Car Racing Game version 1.13 (unregistered).
             Special Features:
                   Car Choice Option,
                   Pause and Resume Feature,
